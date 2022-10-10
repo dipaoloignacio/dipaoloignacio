@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio Di Paolo</h1>
 <h3 align="center">A passionate frontend developer from Mendoza-Argentina</h3>
 
-- 🔭 I’m currently working on [liliana-bodoc](fundacionlilianabodoc.org.ar)
-
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://dipaoloignacio.github.io/portfolio](https://dipaoloignacio.github.io/portfolio)
